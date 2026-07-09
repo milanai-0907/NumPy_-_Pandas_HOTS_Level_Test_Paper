@@ -1,12 +1,12 @@
-# 📝 NumPy + Pandas HOTS Level Test Papers
+#  NumPy + Pandas HOTS Level Test Papers
 
 Welcome to my **NumPy + Pandas HOTS Level Test Papers** repository! This repository contains Higher Order Thinking Skills (HOTS) questions, practice test papers, and solutions designed to improve problem-solving abilities in NumPy and Pandas.
 
-## 🚀 About
+##  About
 
 This repository is dedicated to solving challenging, interview-oriented, and real-world problems using **NumPy** and **Pandas**. The questions focus on applying concepts rather than memorizing syntax, helping learners develop analytical and logical thinking skills.
 
-## 📚 Topics Covered
+##  Topics Covered
 
 ### NumPy
 - Array Creation & Manipulation
